@@ -14,3 +14,11 @@
 - Ini Outputnya <p>
 
 ![Gambar 4](screenshot/ss4.png)
+
+## Latihan 3
+- Ini Inputnya <p>
+
+![Gambar 5](screenshot/ss5.png)
+- Ini Outputnya <p>
+
+![Gambar 6](screenshot/ss6.png)
