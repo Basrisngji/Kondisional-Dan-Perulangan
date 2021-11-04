@@ -22,3 +22,11 @@
 - Ini Outputnya <p>
 
 ![Gambar 6](screenshot/ss6.png)
+
+## Latihan 4
+- Ini Inputnya <p>
+
+![Gambar 7](screenshot/ss6.png)
+- Ini Outputnya <p>
+
+![Gambar 8](screenshot/ss7.png)
