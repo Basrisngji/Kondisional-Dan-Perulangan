@@ -26,7 +26,7 @@
 ## Latihan 4
 - Ini Inputnya <p>
 
-![Gambar 7](screenshot/ss6.png)
+![Gambar 7](screenshot/ss7.png)
 - Ini Outputnya <p>
 
-![Gambar 8](screenshot/ss7.png)
+![Gambar 8](screenshot/ss8.png)
